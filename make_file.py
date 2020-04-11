@@ -27,7 +27,7 @@ def main(date, tags, link, *title):
         14: f"```"
     }
 
-    file_name = "_posts/" + date + "-" + "-".join(list(title))
+    file_name = date + "-" + "-".join(list(title))
 
     with open(f'{file_name}.md', mode='w') as md_file:
         for v in vals.values():
