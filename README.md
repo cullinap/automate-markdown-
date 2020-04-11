@@ -1,4 +1,4 @@
-### README
+### MARKDOWN AUTOMATOR
 
 I hate making markdown documents from scratch because I can never remember what the format looks like and I only have enough room in my brain for a few things. So here is combination of a command line + python tool to help make a template in markdown.
 
